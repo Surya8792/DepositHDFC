@@ -1,5 +1,6 @@
 package com.qa.deposits.hdfc;
 
-public class RecurringDeposit {
-
+public class RecurringDeposit 
+{
+  System.out.println("RD");
 }
