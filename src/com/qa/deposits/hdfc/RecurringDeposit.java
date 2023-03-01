@@ -2,9 +2,13 @@ package com.qa.deposits.hdfc;
 
 public class RecurringDeposit 
 {
+	public static void main(String [] args)
+	{
+	  RecurringDeposit obj = new RecurringDeposit();
+	}
 
   
-  public static void main(String[] args)
+  public void deposit()
   {
 	  System.out.println("RD");
 	  System.out.println("RD");
@@ -13,8 +17,5 @@ public class RecurringDeposit
           System.out.println("RD");
   }
 }
-public static void main(String [] args)
-{
-  RecurringDeposit obj = new RecurringDeposit();
-}
+
 
